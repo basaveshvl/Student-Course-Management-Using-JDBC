@@ -1,4 +1,6 @@
 SQL:
+
+
 CREATE DATABASE StudentCourse;
 USE StudentCourse;
 CREATE TABLE Student(
