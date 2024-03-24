@@ -1,6 +1,5 @@
 Java:
 
-TEAM MEMBER: ARCHIT GANAPATI AVADHANI[1KS20CS011], BASAVESH V L[1KS20CS013], CHETHAN S[1KS20CS019]
 
 #######################################################################################################
 
